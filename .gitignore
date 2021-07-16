@@ -1,1 +1,10 @@
+# Ignore this file
 topSecret.txt
+toBeIgnored[7-9].txt
+
+# Ignore file with this extension
+.DS_Store
+
+# Ignore directory
+dirToBeIgnored/
+**/subdirToBeIgnored
