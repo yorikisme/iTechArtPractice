@@ -1,3 +1,5 @@
-func sayHello(to person: String) {
-       print("Hello, \(person)!")
+func sayHello(to people: [String]) {
+	for person in people {
+		print("Hello, \(person)!")
+	}
 }
