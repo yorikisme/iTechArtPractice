@@ -1,1 +1,4 @@
-Testing
+
+func sumOf(x: Int, y: Int) -> Int {
+	return x + y
+}
